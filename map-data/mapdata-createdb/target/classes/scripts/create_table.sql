@@ -1,0 +1,1 @@
+CREATE TABLE map_data (id serial PRIMARY KEY, "value"j VARCHAR ( 50 ) NOT NULL);
